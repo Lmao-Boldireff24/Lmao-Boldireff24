@@ -1,7 +1,14 @@
-### Hi there 👋
+## Hello, I'm Vadim Boldireff
 
-<!--
-**Lmao-Zedong24/Lmao-Zedong24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a game engine programmer whois finishing their studies at Isart Digital Montreal. I am currently looking for an internship to kickstart my professional career. I am currently building my very own game engine from scratch!
+
+Here are my most notable repositories:
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
