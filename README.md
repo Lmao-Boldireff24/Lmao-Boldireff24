@@ -55,6 +55,8 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 
 
 ### Current Favorite Quote
+<p align="center">
 *"<b>Theory</b> is when you know everythig, but nothing works.*
 *<b>Practice</b> is when don't know anything, yet everything works.*
 *In <b>Programming</b> we combine <b>Theory</b> and <b>Practice</b>; nothing works, and we don't know why."*
+</p>
