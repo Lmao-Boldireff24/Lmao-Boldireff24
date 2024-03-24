@@ -34,6 +34,6 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="Unity" width="40" height="UE5"/>&nbsp;
 </div>
 
-*Thory is when you know everythig, but nothing works.*
+*"Thory is when you know everythig, but nothing works.*
 *Practice is when don't know anything, yet everything works.*
-*In programming we combine theory and practice; nothing works, and we don't know why.*
+*In programming we combine theory and practice; nothing works, and we don't know why."*
