@@ -39,6 +39,6 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
  <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
 </div>
 
-*"Thory is when you know everythig, but nothing works.*
+*"Theory is when you know everythig, but nothing works.*
 *Practice is when don't know anything, yet everything works.*
 *In programming we combine theory and practice; nothing works, and we don't know why."*
