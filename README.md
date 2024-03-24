@@ -25,7 +25,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
   <!-- Width : 417 -->
-<p align="left">
+<p align="center">
    <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
    <a href="https://github.com/Lmao-Zedong24/ProjetCCC"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=ProjetCCC&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
    <a href="https://github.com/Lmao-Zedong24/Paing"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Paing&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
