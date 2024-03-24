@@ -36,13 +36,13 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 
 <div>
-<a href="#"><img alt="C" width="60" src="https://img.shields.io/badge/C-2c3142?style=flat&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-2c3142?style=plastic&logo=C%2B%2B&logoColor=51DA68"></a>
-<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-2c3142?style=plastic&logo=c%23&logoColor=51DA68"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-2c3142?style=plastic&logo=Unity&logoColor=51DA68"></a>
-<a href="#"><img alt="Unreal" src="https://img.shields.io/badge/Unreal-2c3142?style=plastic&logo=UnrealEngine&logoColor=51DA68"></a>
-<a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-2c3142?style=plastic&logo=OpenGL&logoColor=51DA68" widt=200></a>
-<a href="#"><img alt="LabView" src="https://img.shields.io/badge/LabView-2c3142?style=plastic&logo=LabView&logoColor=51DA68" widt=200></a>
+<a href="#"><img alt="C" width="52" src="https://img.shields.io/badge/C-2c3142?style=flat&logo=C&logoColor=51DA68"></a>
+<a href="#"><img alt="C++" width="52 src="https://img.shields.io/badge/C++-2c3142?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
+<a href="#"><img alt="C#" width="52" src="https://img.shields.io/badge/C%23-2c3142?style=flat&logo=c%23&logoColor=51DA68"></a>
+<a href="#"><img alt="Unity" width="52" src="https://img.shields.io/badge/Unity-2c3142?style=flat&logo=Unity&logoColor=51DA68"></a>
+<a href="#"><img alt="Unreal" width="52" src="https://img.shields.io/badge/Unreal-2c3142?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
+<a href="#"><img alt="OpenGL" width="52" src="https://img.shields.io/badge/OpenGL-2c3142?style=flat&logo=OpenGL&logoColor=51DA68" widt=200></a>
+<a href="#"><img alt="LabView" width="52" src="https://img.shields.io/badge/LabView-2c3142?style=flat&logo=LabView&logoColor=51DA68" widt=200></a>
 
 
 
