@@ -11,7 +11,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 </pre>
 </p>
 
-# Hello hello!
+# Hello hello! 👋
 
 Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
 
