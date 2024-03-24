@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vadim-boldireff-838257294/"><img height="32" src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=LinkedIn&logoColor=0077b5" alt="LinkedIn"></a>
-  <a href="https://discordapp.com/users/568696023409754142"><img height="32" src="https://img.shields.io/badge/Discord-1F222E?style=for-the-badge&logo=Discord&logoColor=7289da  " alt="Discord"></a>
+  <a href="https://discordapp.com/users/285483237772492801"><img height="32" src="https://img.shields.io/badge/Discord-1F222E?style=for-the-badge&logo=Discord&logoColor=7289da  " alt="Discord"></a>
   <a href="mailto:vboldireff01@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=c71610" alt="Email"></a>
 </p>
 
