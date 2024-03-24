@@ -1,8 +1,6 @@
-<pre>
 
 $${\color{green}Test}$$
 $${\color{lime}Test}$$
-</pre>
 
 
 <pre>
