@@ -34,18 +34,14 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="Unity" width="40" height="UE5"/>&nbsp;
 </div>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-51DA68.svg?logo=c-in-hexagon&logoColor=white"></a>
 
 <div>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/c-1F222E?style=social&logo=C%2B%2B&logoColor=51DA68
 "></a>
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
-
-<img width="64px" alt="Youtube" title="Youtube" src="
-"/>
- 
-<a href="#"><img width="32px" alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=plastic&logo=C%2B%2B&logoColor=51DA68
+"></a>
 
 
  
