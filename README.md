@@ -30,10 +30,12 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 </p>
 
 
-<p align="center">
   
-<b>Favorite Tools</b>
+<b>
+<p align="center">
+Favorite Tools
 </p>
+</b>
 
 <!-- custom-icon-badges.demolab.com -->
 <p align="center">
