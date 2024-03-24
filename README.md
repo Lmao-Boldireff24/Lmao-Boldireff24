@@ -16,7 +16,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 <summary><h2>Here are my most notable repositories</h2></summary>
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
-  <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 32374B (light grey) -->
+  <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 292D3D (light grey) -->
   <!-- Width : 417 -->
   <p align="left">
    <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Alllo"></a>
@@ -31,7 +31,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-1F222E?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/C++-32374B?style=flat&logo=C++&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/C%23-2c3142?style=flat&logo=C%23&logoColor=51DA68"></a>
-  <a href="#"><img alt="Unity" height="52" src="https://img.shields.io/badge/Unity-3C4259?style=flat&logo=Unity&logoColor=51DA68"></a>
+  <a href="#"><img alt="Unity" height="52" src="https://img.shields.io/badge/Unity-292D3D?style=flat&logo=Unity&logoColor=51DA68"></a>
   <a href="#"><img alt="Unreal" height="52" src="https://img.shields.io/badge/Unreal-2c3142?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
   <a href="#"><img alt="OpenGL" height="52" src="https://img.shields.io/badge/OpenGL-2c3142?style=flat&logo=OpenGL&logoColor=51DA68" widt=200></a>
   <a href="#"><img alt="LabView" height="52" src="https://img.shields.io/badge/LabView-2c3142?style=flat&logo=LabView&logoColor=51DA68" widt=200></a>
