@@ -1,7 +1,8 @@
 
 $${\color{green}Test}$$
-$${\color{lightgreen}Test}$$
 
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+https://placehold.it/150/ffffff/ff0000?text=hello
 
 <pre>
  <span style="color:blue"> test </span>
