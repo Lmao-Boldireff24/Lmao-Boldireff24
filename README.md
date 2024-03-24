@@ -14,12 +14,12 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 <summary><h2>Here are my most notable repositories</h2></summary>
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
-  <!-- Main Colors : 51DA68 (green), F85D7F (red), F85D7F (yellow), 1F222E (grey) -->
+  <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey) -->
   <p align="left">
-   <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F85D7F&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Zedong24/ProjetCCC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F85D7F&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Zedong24/Paing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F85D7F&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Zedong24/MiniChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F85D7F&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Zedong24/ProjetCCC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Zedong24/Paing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Zedong24/MiniChat"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
   </p>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
