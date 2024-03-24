@@ -15,17 +15,18 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
 
+### A litle about me :))
+
+
 ### Notable Projects
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
   <!-- Width : 417 -->
-  <p align="left">
+<p align="center">
    <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Alllo"></a>
    <a href="https://github.com/Lmao-Zedong24/ProjetCCC"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=ProjetCCC&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
    <a href="https://github.com/Lmao-Zedong24/Paing"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Paing&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
    <a href="https://github.com/Lmao-Zedong24/MiniChat"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=MiniChat&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
-
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 
@@ -48,7 +49,6 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 </p>
 
 
-### A litle about me :))
 
 *"<b>Theory</b> is when you know everythig, but nothing works.*
 *<b>Practice</b> is when don't know anything, yet everything works.*
