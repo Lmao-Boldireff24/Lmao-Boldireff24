@@ -12,7 +12,6 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 Here are my most notable repositories:
 
-<details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <p align="left">
@@ -28,7 +27,6 @@ Here are my most notable repositories:
   </p>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 
 <div>
