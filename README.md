@@ -1,3 +1,6 @@
+
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 <pre>
  <span style="color:blue"> test </span>
  _     _           _ _          ______        _     _ _                ___    ___ 
