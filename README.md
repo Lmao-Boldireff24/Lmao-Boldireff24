@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vadim Boldireff" /></a>
-</p>
 
 <pre>
  <span style="color:blue"> test </span>
@@ -12,6 +9,9 @@
  \ \ / // ___ ( (_| | | | | |  | |__)  ) |_| | ( (_| | | |   | ____| | |    | |   
   \___/ \_____|\____|_|_|_|_|  |______/ \___/ \_)____|_|_|   |_____) |_|    |_|   
 </pre>
+
+</p>
+
 
 Hello hello! I am a game engine programmer who is finishing their studies at Isart Digital Montreal. I am currently looking for an internship to kickstart my professional career. I am currently building my very own game engine from scratch!
 
