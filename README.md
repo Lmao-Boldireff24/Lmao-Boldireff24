@@ -53,7 +53,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 </p>
 
 
-__
+<br />
 
 <p align="center">
 "<b>Theory</b> is when you know everythig, but nothing works.
