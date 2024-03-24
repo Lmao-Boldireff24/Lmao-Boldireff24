@@ -35,6 +35,8 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
   <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
   <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
+ <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=plastic&logo=git&logoColor=51DA68"></a>
+ <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=plastic&logo=VisualStudio&logoColor=51DA68"></a>
 </div>
 
 *"Thory is when you know everythig, but nothing works.*
