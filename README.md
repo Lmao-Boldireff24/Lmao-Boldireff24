@@ -31,7 +31,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 
 
 <p align="center">
-### Favorite Tools
+Favorite Tools
 </p>
 
 <!-- custom-icon-badges.demolab.com -->
