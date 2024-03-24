@@ -3,8 +3,6 @@
 I am a game engine programmer whois finishing their studies at Isart Digital Montreal. I am currently looking for an internship to kickstart my professional career. I am currently building my very own game engine from scratch!
 
 Here are my most notable repositories:
-
-
 hello:
 this is 
 a test
