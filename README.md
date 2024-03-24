@@ -27,7 +27,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
   </p>
 
 
-### Tools
+### Favorite Tools
 <!-- custom-icon-badges.demolab.com -->
 <div>
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
