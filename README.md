@@ -32,7 +32,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/C++-32374B?style=flat&logo=C++&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/C%23-2c3142?style=flat&logo=C%23&logoColor=51DA68"></a>
   <a href="#"><img alt="Unity" height="52" src="https://img.shields.io/badge/Unity-292D3D?style=flat&logo=Unity&logoColor=51DA68"></a>
-  <a href="#"><img alt="Unreal" height="52" src="https://img.shields.io/badge/Unreal-1F222E?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
+  <a href="#"><img alt="Unreal" height="52" src="https://img.shields.io/badge/Unreal-222633?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
   <a href="#"><img alt="OpenGL" height="52" src="https://img.shields.io/badge/OpenGL-2c3142?style=flat&logo=OpenGL&logoColor=51DA68" widt=200></a>
   <a href="#"><img alt="LabView" height="52" src="https://img.shields.io/badge/LabView-2c3142?style=flat&logo=LabView&logoColor=51DA68" widt=200></a>
 </div>
