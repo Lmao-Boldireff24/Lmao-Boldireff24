@@ -40,7 +40,9 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/c-1F222E?style=social&logo=C%2B%2B&logoColor=51DA68
 "></a>
 
-<img width="64px" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/c-1F222E?style=flat&logo=C%2B%2B&logoColor=51DA68
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
+
+<img width="64px" alt="Youtube" title="Youtube" src="
 "/>
  
 <a href="#"><img width="32px" alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
