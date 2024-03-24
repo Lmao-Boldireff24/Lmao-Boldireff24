@@ -37,21 +37,11 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-51DA68.svg?logo=c-in-hexagon&logoColor=white"></a>
 
 <div>
+<a href="#"><img width="32px" alt="C++" src="https://img.shields.io/badge/c-1F222E?style=social&logo=C%2B%2B&logoColor=51DA68
+"></a>
+<a href="#"><img width="32px" alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
 
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=for-the-badge&logo=C&logoColor=51DA68"></a>
+
  
 
 </div>
