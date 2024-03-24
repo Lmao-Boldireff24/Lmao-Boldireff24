@@ -2,11 +2,11 @@
 <pre>
  _     _           _ _          ______        _     _ _                ___    ___ 
 (_)   (_)         | (_)        (____  \      | |   | (_)              / __)  / __)
- _     _ _____  __| |_ ____     ____)  ) ___ | | __| |_  ____ _____ _| |__ _| |__ 
+| |   | | _____  __| |_ ____     ____)  ) ___ | | __| |_  ____ _____ _| |__ _| |__ 
 | |   | (____ |/ _  | |    \   |  __  ( / _ \| |/ _  | |/ ___) ___ (_   __|_   __)
  \ \ / // ___ ( (_| | | | | |  | |__)  ) |_| | ( (_| | | |   | ____| | |    | |   
   \___/ \_____|\____|_|_|_|_|  |______/ \___/ \_)____|_|_|   |_____) |_|    |_|   
-
+                                                                                   
 </pre>
 </p>
 
@@ -35,7 +35,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 </div>
 
 <div>
-  <a href="#"><img alt="c" src="https://img.shields.io/badge/c-FF0000.svg?logo=c&logoColor=white"></a>
+  <a href="#"><img alt="c" src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=%23ffffff&color=green"></a>
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/cpp-3DDC84?logo=cpp&logoColor=white"></a>
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
   <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
