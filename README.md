@@ -1,5 +1,5 @@
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+$${\color{red}Test}$$
 
 <pre>
  <span style="color:blue"> test </span>
