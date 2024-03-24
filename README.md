@@ -11,15 +11,16 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 </pre>
 </p>
 
-# Hello hello! 👋
-
-Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
-
 <p align="center">
   <a href="https://github.com/Lmao-Zedong24/Survivant"><img height="32" src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=LinkedIn&logoColor=0077b5" alt="LinkedIn"></a>
   <a href="https://github.com/Lmao-Zedong24/Survivant"><img height="32" src="https://img.shields.io/badge/Discord-1F222E?style=for-the-badge&logo=Discord&logoColor=7289da  " alt="Discord"></a>
   <a href="https://github.com/Lmao-Zedong24/Survivant"><img height="32" src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=c71610" alt="Email"></a>
 </p>
+
+# Hello hello! 👋
+
+Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
+
   
 
 
