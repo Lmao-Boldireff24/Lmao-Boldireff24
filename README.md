@@ -41,9 +41,8 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-1F222E?style=plastic&logo=c%23&logoColor=51DA68"></a>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-1F222E?style=plastic&logo=Unity&logoColor=51DA68"></a>
 <a href="#"><img alt="Unreal" src="https://img.shields.io/badge/Unreal-1F222E?style=plastic&logo=UnrealEngine&logoColor=51DA68"></a>
-<a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-1F222E?style=plastic&logo=OpenGL&logoColor=51DA68"></a>
-<a href="#"><img alt="LabView" src="https://img.shields.io/badge/LabView-1F222E?style=plastic&logo=LabView&logoColor=51DA68
-"></a>
+<a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-1F222E?style=plastic&logo=OpenGL&logoColor=51DA68" widt=200></a>
+<a href="#"><img alt="LabView" src="https://img.shields.io/badge/LabView-1F222E?style=plastic&logo=LabView&logoColor=51DA68" widt=200></a>
 
 
 
