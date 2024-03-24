@@ -26,28 +26,15 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   </p>
 
 
+<!-- custom-icon-badges.demolab.com -->
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="Unity" width="40" height="UE5"/>&nbsp;
-</div>
-
-
-<div>
-<a href="#"><img alt="C" height="52" src="https://img.shields.io/badge/C-2c3142?style=flat&logo=C&logoColor=51DA68"></a>
-<a href="#"><img alt="C++" height="52" src="https://img.shields.io/badge/C++-2c3142?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
-<a href="#"><img alt="C#" height="52" src="https://img.shields.io/badge/C%23-2c3142?style=flat&logo=c%23&logoColor=51DA68"></a>
-<a href="#"><img alt="Unity" height="52" src="https://img.shields.io/badge/Unity-2c3142?style=flat&logo=Unity&logoColor=51DA68"></a>
-<a href="#"><img alt="Unreal" height="52" src="https://img.shields.io/badge/Unreal-2c3142?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
-<a href="#"><img alt="OpenGL" height="52" src="https://img.shields.io/badge/OpenGL-2c3142?style=flat&logo=OpenGL&logoColor=51DA68" widt=200></a>
-<a href="#"><img alt="LabView" height="52" src="https://img.shields.io/badge/LabView-2c3142?style=flat&logo=LabView&logoColor=51DA68" widt=200></a>
-
-
-
- 
-
+  <a href="#"><img alt="C" height="52" src="https://custom-icon-badges.demolab.com/badge/C-2c3142?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
+  <a href="#"><img alt="C++" height="52" src="https://img.shields.io/badge/C++-2c3142?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
+  <a href="#"><img alt="C#" height="52" src="https://img.shields.io/badge/C%23-2c3142?style=flat&logo=c%23&logoColor=51DA68"></a>
+  <a href="#"><img alt="Unity" height="52" src="https://img.shields.io/badge/Unity-2c3142?style=flat&logo=Unity&logoColor=51DA68"></a>
+  <a href="#"><img alt="Unreal" height="52" src="https://img.shields.io/badge/Unreal-2c3142?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
+  <a href="#"><img alt="OpenGL" height="52" src="https://img.shields.io/badge/OpenGL-2c3142?style=flat&logo=OpenGL&logoColor=51DA68" widt=200></a>
+  <a href="#"><img alt="LabView" height="52" src="https://img.shields.io/badge/LabView-2c3142?style=flat&logo=LabView&logoColor=51DA68" widt=200></a>
 </div>
 
 *"Thory is when you know everythig, but nothing works.*
