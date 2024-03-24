@@ -13,9 +13,9 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 # Hello hello!
 
-Hello hello! I am a game engine programmer who is finishing their studies at Isart Digital Montreal. I am currently looking for an internship to kickstart my professional career. I am currently building my very own game engine from scratch!
+Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
 
-<summary><h2>Here are my most notable repositories</h2></summary>
+## Notable Projects
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
   <!-- Width : 417 -->
