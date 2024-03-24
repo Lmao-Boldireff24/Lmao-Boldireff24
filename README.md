@@ -21,12 +21,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 Welcome to my profile! I'm a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
 
-  
-
-
-
-
-
 ### Notable Projects
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
