@@ -38,8 +38,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 <div>
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-1F222E?logo=C&logoColor=51DA68
-"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?logo=C&logoColor=51DA68"></a>
  
 
 </div>
