@@ -1,5 +1,9 @@
+<pre>
 
-$${\color{red}Test}$$
+$${\color{green}Test}$$
+$${\color{lime}Test}$$
+</pre>
+
 
 <pre>
  <span style="color:blue"> test </span>
