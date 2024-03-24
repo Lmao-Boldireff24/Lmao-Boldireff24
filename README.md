@@ -27,6 +27,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
   </p>
 
 
+###Tools
 <!-- custom-icon-badges.demolab.com -->
 <div>
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
@@ -39,6 +40,9 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
  <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
  <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
 </div>
+
+
+###A litle about me :))
 
 *"<b>Theory</b> is when you know everythig, but nothing works.*
 *<b>Practice</b> is when don't know anything, yet everything works.*
