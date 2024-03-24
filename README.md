@@ -1,18 +1,7 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red"> _     _           _ _          ______        _     _ _                ___    ___ </tspan>,
-    <tspan fill="green">test</tspan>!
-  </text>
-</svg>
-
-<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vadim Boldireff" /></a>
+</p>
 
 $${\color{green}Test}$$
 
