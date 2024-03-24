@@ -16,7 +16,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 <summary><h2>Here are my most notable repositories</h2></summary>
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
-  <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey) -->
+  <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 2c3142 (light grey) -->
   <!-- Width : 417 -->
   <p align="left">
    <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Alllo"></a>
@@ -36,7 +36,7 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
 
 
 <div>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/c-1F222E?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/c-2c3142?style=flat&logo=C%2B%2B&logoColor=51DA68"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/c-1F222E?style=plastic&logo=C%2B%2B&logoColor=51DA68"></a>
 
 
