@@ -7,7 +7,7 @@
      width="100" height="50"
 >
   <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
+    <tspan fill="red"> _     _           _ _          ______        _     _ _                ___    ___ </tspan>,
     <tspan fill="green">world</tspan>!
   </text>
 </svg>
