@@ -36,16 +36,15 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/badge/C++-242736?style=flat&logo=cpp2&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/badge/C%23-242736?style=flat&logo=cs2&logoColor=51DA68"></a>
 </p>
-<div>
+<p align="center">
   <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
   <a href="#"><img alt="Unity" height="32" src="https://img.shields.io/badge/Unity-242736?style=flat&logo=Unity&logoColor=51DA68"></a>
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
-</div>
-<div>
+</p>
+<p align="center">
   <a href="#"><img alt="VisualStudio" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
   <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
   <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
-</div>
 </p>
 
 
