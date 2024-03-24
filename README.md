@@ -5,13 +5,21 @@ I am a game engine programmer whois finishing their studies at Isart Digital Mon
 Here are my most notable repositories:
 
 <div>
-  
+  ______                   _                        
+ / _____)                 (_)                   _   
+( (____  _   _  ____ _   _ _ _   _ _____ ____ _| |_ 
+ \____ \| | | |/ ___) | | | | | | (____ |  _ (_   _)
+ _____) ) |_| | |    \ V /| |\ V // ___ | | | || |_ 
+(______/|____/|_|     \_/ |_| \_/ \_____|_| |_| \__)
+
+
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="Unity" width="40" height="UE5"/>&nbsp;
-  
 </div>
 
 
