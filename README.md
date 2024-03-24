@@ -3,11 +3,6 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vadim Boldireff" /></a>
 </p>
 
-$${\color{green}Test}$$
-
-- ![#1589F0](https://placehold.it/150/ffffff/ff0000?text=hello-hello----------------------\n------\\n---------------------------------e3e3e3) `#1589F0`
-https://placehold.it/150/ffffff/ff0000?text=hello
-
 <pre>
  <span style="color:blue"> test </span>
  _     _           _ _          ______        _     _ _                ___    ___ 
