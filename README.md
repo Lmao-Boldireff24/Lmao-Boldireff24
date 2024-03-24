@@ -22,7 +22,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
   <!-- Width : 417 -->
-<p align="center">
+<p align="left">
    <a href="https://github.com/Lmao-Zedong24/Survivant"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Alllo"></a>
    <a href="https://github.com/Lmao-Zedong24/ProjetCCC"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=ProjetCCC&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
    <a href="https://github.com/Lmao-Zedong24/Paing"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Paing&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
@@ -30,25 +30,20 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 </p>
 
 
-  
-<b>
-<p align="center">
-Favorite Tools
-</p>
-</b>
+### Favorite Tools
 
 <!-- custom-icon-badges.demolab.com -->
-<p align="center">
+<p align="left">
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/badge/C++-242736?style=flat&logo=cpp2&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/badge/C%23-242736?style=flat&logo=cs2&logoColor=51DA68"></a>
 </p>
-<p align="center">
+<p align="left">
   <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
   <a href="#"><img alt="Unity" height="32" src="https://img.shields.io/badge/Unity-242736?style=flat&logo=Unity&logoColor=51DA68"></a>
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
 </p>
-<p align="center">
+<p align="left">
   <a href="#"><img alt="VisualStudio" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
   <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
   <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
