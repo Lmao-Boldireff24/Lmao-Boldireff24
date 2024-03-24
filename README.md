@@ -1,13 +1,11 @@
 <p align="center">
-<pre>
-dP     dP                dP oo                888888ba           dP       dP oo                   .8888b .8888b 
-88     88                88                   88    `8b          88       88                      88   " 88   " 
-88    .8P .d8888b. .d888b88 dP 88d8b.d8b.    a88aaaa8P' .d8888b. 88 .d888b88 dP 88d888b. .d8888b. 88aaa  88aaa  
-88    d8' 88'  `88 88'  `88 88 88'`88'`88     88   `8b. 88'  `88 88 88'  `88 88 88'  `88 88ooood8 88     88     
-88  .d8P  88.  .88 88.  .88 88 88  88  88     88    .88 88.  .88 88 88.  .88 88 88       88.  ... 88     88     
-888888'   `88888P8 `88888P8 dP dP  dP  dP     88888888P `88888P' dP `88888P8 dP dP       `88888P' dP     dP     
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-  
+<pre>                                                                            
+o     o             8  o            .oPYo.        8      8  o               d'b  d'b 
+8     8             8               8   `8        8      8                  8    8   
+8     8 .oPYo. .oPYo8 o8 ooYoYo.   o8YooP' .oPYo. 8 .oPYo8 o8 oPYo. .oPYo. o8P  o8P  
+`b   d' .oooo8 8    8  8 8' 8  8    8   `b 8    8 8 8    8  8 8  `' 8oooo8  8    8   
+ `b d'  8    8 8    8  8 8  8  8    8    8 8    8 8 8    8  8 8     8.      8    8   
+  `8'   `YooP8 `YooP'  8 8  8  8    8oooP' `YooP' 8 `YooP'  8 8     `Yooo'  8    8 
 </pre>
 </p>
 
