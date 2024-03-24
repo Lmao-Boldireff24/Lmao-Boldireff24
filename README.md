@@ -29,23 +29,25 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 </p>
 
 
-<a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
 ### Favorite Tools
 <!-- custom-icon-badges.demolab.com -->
+<p align="center">
 <div>
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/badge/C++-242736?style=flat&logo=cpp2&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/badge/C%23-242736?style=flat&logo=cs2&logoColor=51DA68"></a>
+</div>
+<div>
+  <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
   <a href="#"><img alt="Unity" height="32" src="https://img.shields.io/badge/Unity-242736?style=flat&logo=Unity&logoColor=51DA68"></a>
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
-  <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
-  <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
- <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
- <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
 </div>
+<div>
+  <a href="#"><img alt="VisualStudio" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
+  <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
+  <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
+</div>
+</p>
 
 
 ### A litle about me :))
