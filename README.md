@@ -32,11 +32,9 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 ### Favorite Tools
 <!-- custom-icon-badges.demolab.com -->
 <p align="center">
-<div style="text-align:center">
   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/badge/C++-242736?style=flat&logo=cpp2&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/badge/C%23-242736?style=flat&logo=cs2&logoColor=51DA68"></a>
-</div>
 </p>
 <div>
   <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
