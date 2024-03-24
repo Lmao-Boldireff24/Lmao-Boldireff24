@@ -34,6 +34,8 @@ Hello hello! I am a game engine programmer who is finishing their studies at Isa
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="UE5" alt="Unity" width="40" height="UE5"/>&nbsp;
 </div>
 
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+
 <div>
   <a href="#"><img alt="c" src="https://img.shields.io/badge/Discord-white?logo=discord&logoColor=%23ffffff&color=green"></a>
   <a href="#"><img alt="Android" src="https://img.shields.io/badge/cpp-3DDC84?logo=cpp&logoColor=white"></a>
