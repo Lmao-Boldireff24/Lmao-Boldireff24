@@ -54,7 +54,7 @@ Welcome to my profile! I'm a dedicated game engine programmer nearing the comple
 
 
 \
-\
+
 <p align="center">
 "<b>Theory</b> is when you know everythig, but nothing works.
 <b>Practice</b> is when don't know anything, yet everything works.
