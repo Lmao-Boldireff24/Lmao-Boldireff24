@@ -38,8 +38,8 @@ Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer n
 <!-- custom-icon-badges.demolab.com -->
 <p align="center">
   <a href="#"><img alt="C++" height="32" src="https://custom-icon-badges.demolab.com/badge/C++-242736?style=flat&logo=cpp2&logoColor=51DA68"></a>
-  <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="C#" height="32" src="https://custom-icon-badges.demolab.com/badge/C%23-242736?style=flat&logo=cs2&logoColor=51DA68"></a>
+   <a href="#"><img alt="C" height="32" src="https://custom-icon-badges.demolab.com/badge/C-242736?style=flat&logo=c-in-hexagon&logoColor=51DA68"></a>
   <a href="#"><img alt="Python" height="32" src="https://img.shields.io/badge/Python-1F222E?style=flat&logo=Python&logoColor=51DA68"></a>
   <a href="#"><img alt="LabView" height="32" src="https://img.shields.io/badge/LabView-242736?style=flat&logo=LabView&logoColor=51DA68"></a>
 </p>
@@ -49,7 +49,6 @@ Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer n
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
 </p>
 <p align="center">
-
   <a href="#"><img alt="VisualStudio" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
   <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
   <a href="#"><img alt="CMake" height="32" src="https://img.shields.io/badge/CMake-1F222E?style=flat&logo=CMake&logoColor=51DA68"></a>
