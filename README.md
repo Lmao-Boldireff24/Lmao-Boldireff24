@@ -47,7 +47,6 @@ Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer n
   <a href="#"><img alt="Unity" height="32" src="https://img.shields.io/badge/Unity-242736?style=flat&logo=Unity&logoColor=51DA68"></a>
   <a href="#"><img alt="Unreal" height="32" src="https://img.shields.io/badge/Unreal-242736?style=flat&logo=UnrealEngine&logoColor=51DA68"></a>
   <a href="#"><img alt="OpenGL" height="32" src="https://img.shields.io/badge/OpenGL-242736?style=flat&logo=OpenGL&logoColor=51DA68"></a>
-  <a href="#"><img alt="CMake" height="32" src="https://img.shields.io/badge/CMake-1F222E?style=flat&logo=CMake&logoColor=51DA68"></a>
   <a href="#"><img alt="PhysX" height="32" src="https://img.shields.io/badge/PhysX-1F222E?style=flat&logo=Nvidia&logoColor=51DA68"></a>
 </p>
 <p align="left">  
