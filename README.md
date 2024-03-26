@@ -53,7 +53,6 @@ Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer n
   <a href="#"><img alt="VisualStudio" height="32" src="https://img.shields.io/badge/VisualStudio-1F222E?style=flat&logo=VisualStudio&logoColor=51DA68"></a>
   <a href="#"><img alt="Git" height="32" src="https://img.shields.io/badge/Git-1F222E?style=flat&logo=git&logoColor=51DA68"></a>
   <a href="#"><img alt="CMake" height="32" src="https://img.shields.io/badge/CMake-1F222E?style=flat&logo=CMake&logoColor=51DA68"></a>
-  <a href="#"><img alt="CMake" height="32" src="https://img.shields.io/badge/Oculus-1F222E?style=flat&logo=Oculus&logoColor=51DA68"></a>
 </p>
 
 
