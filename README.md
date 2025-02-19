@@ -26,10 +26,10 @@ Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer n
   <!-- Main Colors : 51DA68 (green), F85D7F (red), F8D866 (yellow), 1F222E (grey), 242736 (light grey) -->
   <!-- Width : 417 -->
 <p align="center">
-   <a href="https://github.com/Lmao-Boldireff24/Survivant"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Boldireff24/ProjetCCC"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=ProjetCCC&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Boldireff24/Paing"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=Paing&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
-   <a href="https://github.com/Lmao-Boldireff24/MiniChat"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Zedong24&repo=MiniChat&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Boldireff24/Survivant"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Boldireff24&repo=Survivant&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Boldireff24/ProjetCCC"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Boldireff24&repo=ProjetCCC&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Boldireff24/Paing"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Boldireff24&repo=Paing&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
+   <a href="https://github.com/Lmao-Boldireff24/MiniChat"><img width="384" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lmao-Boldireff24&repo=MiniChat&theme=react&bg_color=1F222E&title_color=51DA68&hide_border=true&icon_color=F8D866&show_icons=false" alt="Survivant"></a>
 </p>
 
 
