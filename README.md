@@ -19,7 +19,9 @@
 
 # Hello hello! 👋
 
-Welcome to my profile! I'm Vadim Boldireff, a dedicated game engine programmer nearing the completion of my studies at Isart Digital Montreal. Currently on the lookout for an internship to launch my professional career, I'm deeply immersed in the development of my own game engine.
+I'm Vadim Boldireff, a passionate and dedicated Game Engine Programmer with a strong foundation in C++ and 3D mathematics. I recently graduated from Isart Digital Montreal and am actively seeking opportunities to contribute my skills in rendering, physics, and low-level systems to a professional team.
+
+I thrive on solving complex technical challenges, which led me to develop my own game engine from the ground up. I'm passionate about performance optimization and creating robust, efficient systems.
 
 ### Notable Projects
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
