@@ -19,7 +19,7 @@
 
 # Hello hello! 👋
 
-I'm Vadim Boldireff, a passionate and dedicated Game Engine Programmer with a strong foundation in C++ and 3D mathematics. I recently graduated from Isart Digital Montreal and am actively seeking opportunities to contribute my skills in rendering, physics, and low-level systems to a professional team.
+I'm Vadim Boldireff, a passionate and dedicated Graphics Programmer with a strong foundation in C++ and 3D mathematics. I recently graduated from Isart Digital Montreal and am actively seeking opportunities to contribute my skills in rendering, physics, and low-level systems to a professional team.
 
 I thrive on solving complex technical challenges, which led me to develop my own game engine from the ground up. I'm passionate about performance optimization and creating robust, efficient systems.
 
