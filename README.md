@@ -19,9 +19,20 @@
 
 # Hello hello! 👋
 
-I'm Vadim Boldireff, a passionate and dedicated Graphics Programmer with a strong foundation in C++ and 3D mathematics. I recently graduated from Isart Digital Montreal and am actively seeking opportunities to contribute my skills in rendering, physics, and low-level systems to a professional team.
+Hey, I'm Vadim — a bilingual developer and IT technician based in
+Montréal.
 
-I thrive on solving complex technical challenges, which led me to develop my own game engine from the ground up. I'm passionate about performance optimization and creating robust, efficient systems.
+My background started in low-level C++ and 3D graphics programming
+at Isart Digital, where I built a game engine from scratch and shipped
+a 3D pathfinding system for NPCs on Unreal Engine 5. Since then I've
+expanded into backend development — Node.js, Express, Docker, SQL and
+secured REST APIs with JWT.
+
+I like building things that work well under the hood, whether that's
+a rendering engine, an AI navigation system or a clean API.
+
+Currently open to backend dev or IT roles.
+
 
 ### Notable Projects
   <!-- https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/README.md -->
